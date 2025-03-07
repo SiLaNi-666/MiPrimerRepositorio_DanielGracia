@@ -100,6 +100,7 @@
 
 - Merge es el comando empleado para fusionar dos ramas
 
+
 ### Apartado 5 Descargar cambios
 
 - 1.1 Editar el archivo README.md desde GitHub:
@@ -118,6 +119,7 @@
 <img src="/ImagenesProyecto/ComprobarQueLosCambiosDeGHAparecenEnElRepositorioLocalpng.png" alt="Captura ejercicio 5-2.2" width="100%"/>
 
 <img src="/ImagenesProyecto/ComprobacionDeGHEnLocal2.png" alt="Captura ejercicio 5-2.2" width="100%"/>
+
 
 ### Apartado 6 Conflictos
 
@@ -142,5 +144,6 @@
 
 <img src="/ImagenesProyecto/ResolverConflicto2.png" alt="Captura ejercicio 6-2.1" width="100%"/>
 
-
+### Apartado 7. Investigación sobre colaboración en equipo con Git y GitHub
+- Contenido subido en el archivo `/colaboracion.md`
 
