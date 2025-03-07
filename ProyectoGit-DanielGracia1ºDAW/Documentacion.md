@@ -144,6 +144,16 @@ https://drive.google.com/uc?export&id=
 
 <img src="https://drive.google.com/uc?export&id=1A8vpBVV83lVgwrd9tEtOesYfnlI1__BG" alt="Captura ejercicio 6-2.1" width="100%"/>
 
+- 2.2 Resuelve el conflicto manualmente editando el archivo script.js y elige qué versión mantener (o  combina ambas).
+<img src="https://drive.google.com/uc?export&id=1m4vlnj4976GTB0VwjUpFvB7-d_o4Ygzx" alt="Captura ejercicio 6-2.2" width="100%"/>
+
+Para resolver este conflicto solo hará falta editar el archivo:
+<img src="https://drive.google.com/uc?export&id=1MsLb_kbiAQKILRmOpyKHYhzi_JsrklbT" alt="Captura ejercicio 6-2.2" width="100%"/>
+
+- 2.3 Añadir el archivo y hacer commit
+<img src="https://drive.google.com/uc?export&id=1MzohvyD5eOzwaT8UHX7KrCOuZb_4PN6u" alt="Captura ejercicio 6-2.3" width="100%"/>
+
+
 ### Apartado 7. Investigación sobre colaboración en equipo con Git y GitHub
 - Contenido subido en el archivo `/colaboracion.md`
 
