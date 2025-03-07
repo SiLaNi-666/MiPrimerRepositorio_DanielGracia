@@ -4,7 +4,6 @@
 
 ### Aparatado 1
 - 1.1 Instalación de Git:
-https://drive.google.com/uc?export&id=
 <img src="https://drive.google.com/uc?export&id=1mFUTUbKBFM8pbrNEquJVVonKJhYyRTqb" alt="Captura ejercicio 1.1" width="100%"/>
 <img src="https://drive.google.com/uc?export&id=1nhpkw2nvH2rHGNb_9BPdAmU7P_94CUXr" alt="Captura ejercicio 1.1" width="100%"/>
 <img src="https://drive.google.com/uc?export&id=1GZX1GOCPOO4PUoiJAjW59FMRN1gJnV-a" alt="Captura ejercicio 1.1" width="100%"/>
